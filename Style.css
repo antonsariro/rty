@@ -3,6 +3,7 @@
   display:flex;
   background-attachment: blak;
   align-items: center;
+  backdrop: #000000;
 }
 .logo{
   margin-right: 13.75%;
