@@ -9,7 +9,10 @@
   color: red;
   list-style-type: none;
 }
-
+.button{
+  width: 590px;
+  border: 4px solid red;
+}
 
 .section-title {
     background-image: url(/assets/images/GiaPanda.png);
