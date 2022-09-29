@@ -3,7 +3,9 @@
   display:flex;
   background-attachment: blak;
 }
-
+.navigate ul{
+  display: flex;
+}
 
 
 .section-title {
