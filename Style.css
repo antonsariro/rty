@@ -11,7 +11,7 @@
 }
 .button{
   width: 590px;
-  border: 4px solid red;
+  border: 4px solid #F9804B;
 }
 
 .section-title {
@@ -22,6 +22,7 @@
     height: 780px;
     position: relative;
     text-align: center;
+    
     
 }
 .title-circl {
