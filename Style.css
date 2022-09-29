@@ -3,6 +3,9 @@
   display:flex;
   background-attachment: blak;
 }
+.logo{
+  margin-right: 13.75%;
+}
 .navigate ul{
   display: flex;
   flex-direction: row;
